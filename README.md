@@ -1,5 +1,5 @@
 
-# <p style="text-align: center;"> Ecommerce API👋</p>
+# <p style="text-align: center;"> InstaBackend API👋</p>
 build InstaBackend on user signup Post
 ___ 
 <p align="center">
